@@ -1,2 +1,2 @@
 # python-series
-beginner  to advance level python basic series
+beginner  to advance level python  series
